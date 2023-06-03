@@ -1,2 +1,2 @@
-# Front-End-Projects
-These are some of my personal projects created using HTML, CSS and JavaScript.
+# Progress Cards 
+This is my first project using basic HTML, CSS.
